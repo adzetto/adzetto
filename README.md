@@ -37,13 +37,10 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 ### Engineering Snapshot
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=adzetto&show_icons=true&theme=tokyonight" alt="stats" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=adzetto&theme=tokyonight" alt="streak" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adzetto&layout=compact&theme=tokyonight&langs_count=10" alt="top-langs" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adzetto&theme=tokyo-night&radius=8" alt="activity-graph" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adzetto&show_icons=true&theme=tokyonight" alt="stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=adzetto&theme=tokyonight" alt="streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adzetto&layout=compact&theme=tokyonight&langs_count=10" alt="top-langs" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adzetto&theme=tokyo-night&radius=8" alt="activity-graph" />
 </div>
 
 ---
@@ -133,3 +130,44 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 ---
 
 <!-- All Repositories panel intentionally removed for a cleaner profile -->
+
+---
+
+### Math Corner
+
+Clarke–Park transforms (FOC basics):
+
+$$
+\begin{aligned}
+\begin{bmatrix} i_\alpha \\ i_\beta \end{bmatrix} &= \frac{2}{3}
+\begin{bmatrix}
+1 & -\tfrac{1}{2} & -\tfrac{1}{2} \\
+0 & \tfrac{\sqrt{3}}{2} & -\tfrac{\sqrt{3}}{2}
+\end{bmatrix}
+\begin{bmatrix} i_a \\ i_b \\ i_c \end{bmatrix},\\[6pt]
+\begin{bmatrix} i_d \\ i_q \end{bmatrix} &=
+\begin{bmatrix}
+\cos\theta & \sin\theta \\
+-\sin\theta & \cos\theta
+\end{bmatrix}
+\begin{bmatrix} i_\alpha \\ i_\beta \end{bmatrix}.
+\end{aligned}
+$$
+
+Welch PSD estimate:
+
+$$
+\hat S_{xx}(f)=\frac{1}{K}\sum_{k=0}^{K-1}\frac{1}{U}\left|\,\mathcal{F}\{x_k[n]w[n]\}(f)\right|^2,\quad U=\frac{1}{N}\sum_{n=0}^{N-1}w^2[n].
+$$
+
+Incompressible Navier–Stokes (compact):
+
+$$
+\rho\,(\partial_t\mathbf{u}+\mathbf{u}\cdot\nabla\mathbf{u})=-\nabla p+\mu\,\nabla^2\mathbf{u}+\mathbf{f},\qquad \nabla\cdot\mathbf{u}=0.
+$$
+
+Linear elastostatics (weak form):
+
+$$
+\int_\Omega \boldsymbol{\varepsilon}(\mathbf{u}):\mathbf{C}:\boldsymbol{\varepsilon}(\mathbf{v})\,\mathrm{d}\Omega=\int_\Omega \mathbf{b}\cdot\mathbf{v}\,\mathrm{d}\Omega+\int_{\Gamma_t}\bar{\mathbf{t}}\cdot\mathbf{v}\,\mathrm{d}\Gamma\quad\forall\,\mathbf{v}\in V.
+$$
