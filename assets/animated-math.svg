@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="50%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="sine" d="M0,110 C 60,70 120,150 180,110 S 300,70 360,110 480,150 540,110 660,70 720,110 840,150 900,110 1020,70 1080,110 1200,150 1260,110"/>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0b1221"/>
+
+  <!-- Moving grid lines -->
+  <g opacity="0.18">
+    <g id="grid-x">
+      <rect x="0" y="0" width="1" height="220" fill="#9ca3af"/>
+    </g>
+    <g id="grid-y">
+      <rect x="0" y="0" width="1200" height="1" fill="#9ca3af"/>
+    </g>
+    <g>
+      <!-- vertical lines -->
+      <use href="#grid-x">
+        <animate attributeName="x" from="0" to="120" dur="4s" repeatCount="indefinite"/>
+      </use>
+      <use href="#grid-x">
+        <animate attributeName="x" from="30" to="150" dur="4s" repeatCount="indefinite"/>
+      </use>
+      <use href="#grid-x">
+        <animate attributeName="x" from="60" to="180" dur="4s" repeatCount="indefinite"/>
+      </use>
+    </g>
+    <g>
+      <!-- horizontal lines -->
+      <use href="#grid-y">
+        <animate attributeName="y" from="0" to="30" dur="3s" repeatCount="indefinite"/>
+      </use>
+      <use href="#grid-y">
+        <animate attributeName="y" from="15" to="45" dur="3s" repeatCount="indefinite"/>
+      </use>
+    </g>
+  </g>
+
+  <!-- Animated sine layers -->
+  <g fill="none" stroke="url(#g)" stroke-width="3" filter="url(#glow)">
+    <use href="#sine">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="M0,110 C 60,70 120,150 180,110 S 300,70 360,110 480,150 540,110 660,70 720,110 840,150 900,110 1020,70 1080,110 1200,150 1260,110;
+                M0,110 C 60,80 120,140 180,110 S 300,80 360,110 480,140 540,110 660,80 720,110 840,140 900,110 1020,80 1080,110 1200,140 1260,110;
+                M0,110 C 60,70 120,150 180,110 S 300,70 360,110 480,150 540,110 660,70 720,110 840,150 900,110 1020,70 1080,110 1200,150 1260,110"/>
+    </use>
+    <use href="#sine" transform="translate(0,10)" opacity="0.6">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="M0,120 C 60,90 120,170 180,120 S 300,90 360,120 480,170 540,120 660,90 720,120 840,170 900,120 1020,90 1080,120 1200,170 1260,120;
+                M0,120 C 60,100 120,160 180,120 S 300,100 360,120 480,160 540,120 660,100 720,120 840,160 900,120 1020,100 1080,120 1200,160 1260,120;
+                M0,120 C 60,90 120,170 180,120 S 300,90 360,120 480,170 540,120 660,90 720,120 840,170 900,120 1020,90 1080,120 1200,170 1260,120"/>
+    </use>
+  </g>
+
+  <!-- Floating nodes -->
+  <g>
+    <circle cx="200" cy="60" r="3" fill="#22c55e">
+      <animate attributeName="cy" values="60;70;60" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="560" cy="160" r="3" fill="#0ea5e9">
+      <animate attributeName="cy" values="160;150;160" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="940" cy="90" r="3" fill="#8b5cf6">
+      <animate attributeName="cy" values="90;100;90" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Caption -->
+  <text x="50%" y="200" text-anchor="middle" fill="#cbd5e1" font-family="'Segoe UI', Roboto, Arial" font-size="14">
+    math → code → control • signals • numerics • structures • fluids
+  </text>
+</svg>
+

@@ -41,44 +41,44 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 <table>
   <tr>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/nvidia/76b900" width="42" alt="Control"/>
+      <img src="https://cdn.simpleicons.org/nvidia/76b900" width="56" alt="Control"/>
       <div><b>Control</b></div>
       <sub>FOC · ADRC · Observers</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/matlab/0076A8" width="42" alt="Simulation"/>
+      <img src="https://cdn.simpleicons.org/matlab/0076A8" width="56" alt="Simulation"/>
       <div><b>Simulation</b></div>
       <sub>MATLAB/Simulink</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/gnubash/3eaf20" width="42" alt="Numerics"/>
+      <img src="https://cdn.simpleicons.org/gnubash/3eaf20" width="56" alt="Numerics"/>
       <div><b>Numerics</b></div>
       <sub>Optimization · ODE/PDE</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/overleaf/47A141" width="42" alt="FEM/CFD"/>
+      <img src="https://cdn.simpleicons.org/overleaf/47A141" width="56" alt="FEM/CFD"/>
       <div><b>FEM / CFD</b></div>
       <sub>Structural · Fluids</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="42" alt="ADAS"/>
+      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="56" alt="ADAS"/>
       <div><b>ADAS / Vision</b></div>
       <sub>OpenCV · ML</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="42" alt="C++"/>
+      <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="56" alt="C++"/>
       <div><b>C++ RT</b></div>
       <sub>Low‑latency · Safety</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/protocolsio/0A0A0A" width="42" alt="CAN"/>
+      <img src="https://cdn.simpleicons.org/protocolsio/0A0A0A" width="56" alt="CAN"/>
       <div><b>Comms</b></div>
       <sub>CAN · V2X</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python"/>
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="56" alt="Python"/>
       <div><b>Python</b></div>
       <sub>NumPy · SciPy</sub>
     </td>
@@ -92,10 +92,10 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 ### Engineering Snapshot
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adzetto&show_icons=true&theme=tokyonight" alt="stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=adzetto&theme=tokyonight" alt="streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adzetto&layout=compact&theme=tokyonight&langs_count=10" alt="top-langs" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=adzetto&theme=tokyo-night&radius=8" alt="activity-graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adzetto&show_icons=true&theme=tokyonight" alt="stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=adzetto&theme=tokyonight" alt="streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adzetto&layout=compact&theme=tokyonight&langs_count=10" alt="top-langs" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=adzetto&theme=tokyo-night&radius=8" alt="activity-graph" />
 </div>
 
 ---
@@ -187,6 +187,14 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 ---
 
 <!-- All Repositories panel intentionally removed for a cleaner profile -->
+
+---
+
+### Creative Engineering
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adzetto/adzetto/main/assets/animated-math.svg" alt="animated-math" />
+</div>
 
 ---
 
