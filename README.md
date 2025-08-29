@@ -1,10 +1,10 @@
 <!-- GitHub Profile README for @adzetto -->
 <div align="center">
 
-<h1>Hi, I'm <a href="https://github.com/adzetto">adzetto</a> 👋</h1>
+<h1>Hi, I'm <a href="https://github.com/adzetto">Muhammet Yağcıoğlu</a> (adzetto) 👋</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=EV+Systems+%7C+C%2B%2B+%7C+Controls+%7C+Embedded;Autonomous+Driving+%7C+V2X+%7C+Energy+Management;Clean+architectures+and+high‑reliability+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Embedded+%26+EV+Software+%7C+C%2B%2B+%7C+Controls;Civil+Engineer+%7C+Simulation+%7C+Structural+%26+Fluid+Analysis;Autonomous+Driving+%7C+V2X+%7C+Energy+Management" alt="Typing SVG" />
 </p>
 
 <p>
@@ -17,17 +17,19 @@
 
 ### About Me
 
-- Electric Vehicle software: powertrain, BMS, ADAS/AD, thermal, CAN, cybersecurity
-- Clean C++ systems with real‑time constraints and safety concepts (ISO 26262)
-- Systems integration, simulation tooling, and performance diagnostics
+I'm an embedded systems engineer and civil engineer. I build high‑reliability C++ systems for electric vehicles (powertrain/BMS/ADAS, thermal, CAN, cybersecurity) and I also work on engineering simulation and analysis in the civil domain (structural, dynamics, fluids, numerical methods).
+
+- EV/Embedded: Powertrain control, BMS, ADAS/AD, V2X, CAN, thermal, safety (ISO 26262)
+- Civil Engineering: Structural dynamics, numerical analysis, fluid mechanics, simulation tooling
+- Tooling: Clean architectures, performance diagnostics, reproducible simulations
 
 ---
 
-### GitHub Stats
+### GitHub Highlights (no tokens required)
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=adzetto&show_icons=true&theme=tokyonight&count_private=true" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=adzetto&show_icons=true&theme=tokyonight" alt="stats" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=adzetto&theme=tokyonight" alt="streak" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adzetto&layout=compact&theme=tokyonight&langs_count=10" alt="top-langs" />
 
@@ -50,27 +52,27 @@
   <img src="https://img.shields.io/badge/CAN--Bus-0A0A0A?style=for-the-badge&logo=protocols.io&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO%2026262-Safety-DC2626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-FF7F00?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-### Metrics Dashboard
+### Featured Repos
 
-<p>
-  <em>Auto‑generated weekly via GitHub Actions (configure token as described below).</em>
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adzetto/adzetto/main/github-metrics.svg" alt="metrics" />
-</div>
+- 🚗 EV systems (C++): [C-main](https://github.com/adzetto/C-main)
+- 🧪 Analysis/simulation: [fluidanalysis](https://github.com/adzetto/fluidanalysis), [Spring-Mass-Friction-Analysis](https://github.com/adzetto/Spring-Mass-Friction-Analysis), [University](https://github.com/adzetto/University)
+- 🧠 ADAS & ML notebooks: [ADAS](https://github.com/adzetto/ADAS), [ADAS_LITE](https://github.com/adzetto/ADAS_LITE)
+- 🧰 Tooling/Dashboards: [dashboard](https://github.com/adzetto/dashboard)
 
 ---
 
-### Contribution Snake
+### Connect
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adzetto/adzetto/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
+- 📍 İzmir • he/him
+- ✉️ Email: muhammet.y.resmi@gmail.com
+- 🔗 LinkedIn: [in/muhammetyagcioglu](https://www.linkedin.com/in/muhammetyagcioglu)
 
-<sub>Last updated automatically by Actions. Built with ❤️ for EV software.</sub>
-
+<sub>Built with ❤️ for EV, embedded, and civil engineering.</sub>
