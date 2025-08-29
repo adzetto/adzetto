@@ -34,6 +34,61 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 
 ---
 
+### Interests
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/nvidia/76b900" width="42" alt="Control"/>
+      <div><b>Control</b></div>
+      <sub>FOC · ADRC · Observers</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/matlab/0076A8" width="42" alt="Simulation"/>
+      <div><b>Simulation</b></div>
+      <sub>MATLAB/Simulink</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/gnubash/3eaf20" width="42" alt="Numerics"/>
+      <div><b>Numerics</b></div>
+      <sub>Optimization · ODE/PDE</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/overleaf/47A141" width="42" alt="FEM/CFD"/>
+      <div><b>FEM / CFD</b></div>
+      <sub>Structural · Fluids</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="42" alt="ADAS"/>
+      <div><b>ADAS / Vision</b></div>
+      <sub>OpenCV · ML</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="42" alt="C++"/>
+      <div><b>C++ RT</b></div>
+      <sub>Low‑latency · Safety</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/protocolsio/0A0A0A" width="42" alt="CAN"/>
+      <div><b>Comms</b></div>
+      <sub>CAN · V2X</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python"/>
+      <div><b>Python</b></div>
+      <sub>NumPy · SciPy</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ### Engineering Snapshot
 
 <div align="center">
@@ -80,41 +135,43 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/googlemaps/10b981" width="22" alt="Location"/>
-        <div><b>İzmir</b></div>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/gnometerminal/0ea5e9" width="22" alt="Pronouns"/>
-        <div><b>he / him</b></div>
-      </td>
-      <td align="center" width="220">
-        <a href="mailto:muhammet.y.resmi@gmail.com">
-          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Gmail"/> <b>muhammet.y.resmi</b>
-        </a>
-        <div style="font-size: 11px; opacity: 0.8;">@gmail.com</div>
+      <td align="center" width="180">
+        <img src="https://cdn.simpleicons.org/googlemaps/10b981" width="36" alt="Location"/>
+        <div style="font-size:16px;"><b>İzmir</b></div>
+        <div style="font-size:12px;opacity:.75;">he / him</div>
       </td>
       <td align="center" width="260">
-        <a href="mailto:muhammetyagcioglu@std.iyte.edu.tr">
-          <img src="https://cdn.simpleicons.org/minutemailer/2563EB" width="22" alt="Academic"/> <b>muhammetyagcioglu</b>
+        <a href="mailto:muhammet.y.resmi@gmail.com">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" alt="Gmail"/>
+          <div style="font-size:16px;"><b>muhammet.y.resmi</b></div>
+          <div style="font-size:12px;opacity:.75;">@gmail.com</div>
         </a>
-        <div style="font-size: 11px; opacity: 0.8;">@std.iyte.edu.tr</div>
+      </td>
+      <td align="center" width="280">
+        <a href="mailto:muhammetyagcioglu@std.iyte.edu.tr">
+          <img src="https://cdn.simpleicons.org/minutemailer/2563EB" width="36" alt="Academic"/>
+          <div style="font-size:16px;"><b>muhammetyagcioglu</b></div>
+          <div style="font-size:12px;opacity:.75;">@std.iyte.edu.tr</div>
+        </a>
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center" width="220">
         <a href="https://www.linkedin.com/in/muhammetyagcioglu">
-          <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" alt="LinkedIn"/> <b>LinkedIn</b>
+          <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" alt="LinkedIn"/>
+          <div style="font-size:14px;"><b>LinkedIn</b></div>
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="220">
         <a href="https://math.stackexchange.com/users/988344/adzetto">
-          <img src="https://cdn.simpleicons.org/stackexchange/1E5397" width="22" alt="Math.SE"/> <b>Math.SE</b>
+          <img src="https://cdn.simpleicons.org/stackexchange/1E5397" width="36" alt="Math.SE"/>
+          <div style="font-size:14px;"><b>Math.SE</b></div>
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="220">
         <a href="https://eodev.com/app/profile/4486426/">
-          <img src="https://cdn.simpleicons.org/apacheairflow/0ea5e9" width="22" alt="eodev"/> <b>eodev</b>
+          <img src="https://cdn.simpleicons.org/apacheairflow/0ea5e9" width="36" alt="eodev"/>
+          <div style="font-size:14px;"><b>eodev</b></div>
         </a>
       </td>
     </tr>
