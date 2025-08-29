@@ -12,15 +12,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Compile LaTeX to PDF
+      - name: Compile LaTeX to PDF (XeLaTeX)
         uses: xu-cheng/latex-action@v3
         with:
           working_directory: cv
           root_file: Muhammet_Yagcioglu_CV.tex
-          args: -interaction=nonstopmode
+          latexmk_use_xelatex: true
+          args: -interaction=nonstopmode -shell-escape
       - name: Commit PDF
         uses: EndBug/add-and-commit@v9
         with:
           add: 'cv/*.pdf'
           message: 'chore(cv): auto-build PDF'
-

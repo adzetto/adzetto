@@ -11,6 +11,11 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
+\usepackage{ifxetex}
+\ifxetex
+  \usepackage{fontspec}
+  \setmainfont{Latin Modern Roman}
+\fi
 \usepackage{tabularx}
 \usepackage{xcolor}
 \usepackage{fontawesome5}
@@ -159,4 +164,3 @@ Multidisciplinary Civil Engineering student with proven expertise in computation
     \resumeSubHeadingListEnd
 
 \end{document}
-
