@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="52" height="52" rx="8" fill="#0b1221" stroke="#0076A8" stroke-width="2"/>
+  <!-- axes -->
+  <line x1="10" y1="46" x2="46" y2="46" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="10" y1="46" x2="10" y2="10" stroke="#94a3b8" stroke-width="2"/>
+  <!-- sine -->
+  <path d="M10,46 C 14,30 18,26 22,46 S 30,62 34,46 42,26 46,46" fill="none" stroke="#22c55e" stroke-width="3"/>
+  <!-- block label -->
+  <rect x="20" y="8" width="16" height="10" rx="2" fill="#0ea5e9"/>
+  <circle cx="28" cy="13" r="1.8" fill="#0b1221"/>
+</svg>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="52" height="52" rx="8" fill="#0b1221" stroke="#0A0A0A" stroke-width="2"/>
+  <!-- CAN bus line -->
+  <line x1="8" y1="28" x2="48" y2="28" stroke="#e5e7eb" stroke-width="3"/>
+  <!-- nodes -->
+  <g fill="#22c55e">
+    <rect x="10" y="18" width="8" height="8" rx="2"/>
+    <rect x="22" y="18" width="8" height="8" rx="2"/>
+    <rect x="34" y="18" width="8" height="8" rx="2"/>
+  </g>
+  <!-- taps -->
+  <g stroke="#22c55e" stroke-width="2">
+    <line x1="14" y1="26" x2="14" y2="28"/>
+    <line x1="26" y1="26" x2="26" y2="28"/>
+    <line x1="38" y1="26" x2="38" y2="28"/>
+  </g>
+  <text x="28" y="46" text-anchor="middle" fill="#94a3b8" font-size="9" font-family="'Segoe UI', Arial">CAN</text>
+</svg>
+
