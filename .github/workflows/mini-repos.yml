@@ -11,6 +11,8 @@ on:
 jobs:
   repos:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Generate repositories panel
         uses: lowlighter/metrics@latest
@@ -28,4 +30,8 @@ jobs:
           plugin_repositories_pinned: no
           plugin_repositories_limit: 100
           plugin_repositories_order: source, popularity
-
+      - name: Commit generated SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'github-repos.svg'
+          message: 'chore(repos): update compact repos SVG'
