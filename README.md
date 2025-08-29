@@ -46,7 +46,7 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
       <sub>FOC · ADRC · Observers</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/matlab/0076A8" width="56" alt="Simulation"/>
+      <img src="https://cdn.simpleicons.org/mathworks/FF7F00" width="56" alt="Simulation"/>
       <div><b>Simulation</b></div>
       <sub>MATLAB/Simulink</sub>
     </td>
@@ -73,7 +73,7 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
       <sub>Low‑latency · Safety</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/protocolsio/0A0A0A" width="56" alt="CAN"/>
+      <img src="https://cdn.simpleicons.org/arduino/00979D" width="56" alt="Comms"/>
       <div><b>Comms</b></div>
       <sub>CAN · V2X</sub>
     </td>
@@ -89,15 +89,6 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 
 ---
 
-### Interests
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adzetto&show_icons=true&theme=tokyonight" alt="stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=adzetto&theme=tokyonight" alt="streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adzetto&layout=compact&theme=tokyonight&langs_count=10" alt="top-langs" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=adzetto&theme=tokyo-night&radius=8" alt="activity-graph" />
-</div>
-
 ### Tech & Tools
 
 <p>
@@ -112,6 +103,13 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
   <img src="https://img.shields.io/badge/Simulink-FF7F00?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
