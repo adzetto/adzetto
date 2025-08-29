@@ -69,6 +69,18 @@ I'm an embedded systems engineer and civil engineer. I build high‑reliability 
 
 ---
 
+### CV
+
+<div align="center">
+
+<a href="https://raw.githubusercontent.com/adzetto/adzetto/main/cv/Muhammet_Yagcioglu_CV.pdf">
+  <img src="https://img.shields.io/badge/Download%20CV-PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+</a>
+
+</div>
+
+---
+
 ### Connect
 
 - 📍 İzmir • he/him

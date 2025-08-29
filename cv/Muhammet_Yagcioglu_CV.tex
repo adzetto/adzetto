@@ -1,0 +1,162 @@
+% Resume in LaTeX — provided by user
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{fontawesome5}
+
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-1in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{\vspace{-5pt}\scshape\raggedright\large}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+\titleformat{\subsection}{\vspace{-4pt}\scshape\raggedright\large}{\hspace{-.15in}}{0em}{}[\color{black}\vspace{-8pt}]
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{\item\small{{#1 \vspace{-2pt}}}}
+\newcommand{\resumeSubheading}[4]{\vspace{-2pt}\item\begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}\textbf{#1} & #2 \\
+\textit{\small#3} & \textit{\small #4} \\
+\end{tabular*}\vspace{-7pt}}
+\newcommand{\resumeSubSubheading}[2]{\item\begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}\textit{\small#1} & \textit{\small #2} \\
+\end{tabular*}\vspace{-7pt}}
+\newcommand{\resumeProjectHeading}[2]{\item\begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}\small#1 & #2 \\
+\end{tabular*}\vspace{-7pt}}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\setlength{\footskip}{4.08003pt}
+\usepackage[margin=1cm]{geometry}
+
+\begin{document}
+\begin{flushright}\color{gray}Last Updated on February 27th, 2025\end{flushright}
+\vspace{-5pt}
+\begin{center}
+\textbf{\Huge \scshape Muhammet Ya\u{g}c\i{o}\u{g}lu} \\ \vspace{8pt}
+\small \faIcon{envelope}\ \href{mailto:muhammetyagcioglu@std.iyte.edu.tr}{\underline{muhammetyagcioglu@std.iyte.edu.tr}}\\
+\faIcon{github}\ \href{https://github.com/adzetto}{\underline{github.com/adzetto}}\ $ $\ \faIcon{linkedin}\ \href{https://linkedin.com/in/muhammetyagcioglu}{\underline{linkedin.com/in/muhammetyagcioglu}}\ $ $\ \faIcon{phone}\ \underline{+905358301141}\\
+\end{center}
+
+\section{Career Summary}
+Multidisciplinary Civil Engineering student with proven expertise in computational modeling, structural analysis, and advanced control systems. Adept at implementing IoT solutions and machine learning algorithms for engineering applications. Seeking to leverage quantitative analysis skills and programming proficiency in a research-driven internship environment.
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Izmir Institute of Technology}{July, 2021 - Present}{Bachelor of Science, Civil Engineering}{Current GPA: 2.95/4.0}
+    \resumeSubheading{Izmir Institute of Technology}{July, 2021 - Present}{Bachelor of Science, minor education in mathematics}{}
+  \resumeSubHeadingListEnd
+
+\section{Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{\textbf{Languages}{: Python (NumPy, Pandas, SciPy, TensorFlow), MATLAB (Simulink, Signal Processing Toolbox), Fortran, C++, \LaTeX} \\
+     \textbf{Software}{: Primavera P6, AutoCAD Civil 3D, SAP2000 (FEA), STAAD Pro (Structural Analysis), ETABS (Building Analysis), WaterCAD (Hydraulic Modeling), HEC-RAS (Hydrologic Simulation)}\\
+     \textbf{Analysis \& Design}{: Structural dynamics, FEM analysis, CFD simulation, hydrological modeling, spectral density analysis}\\
+     \textbf{Tools}{: Git version control, Unix/Linux shell scripting, Webpack build integration, VS Code IDE, JetBrains CLion/PyCharm, Bentley MicroStation, PCB design, OBD-II interfacing}}}
+ \end{itemize}
+
+\section{Projects}
+    \resumeSubHeadingListStart
+        \resumeProjectHeading{\textbf{Structural Analysis Visualization Tool} $|$ \emph{Python, ETABS, AutoCAD}}{Jan 2022 - Present}
+          \resumeItemListStart
+            \resumeItem{Directed the project towards designing software that enhanced visualization of structural analysis results, leading to enhanced design decisions as well as cooperative effort.}
+            \resumeItem{The instrument was interfaced with ETABS and AutoCAD, enhancing workflows as well as enhancing project visualization.}
+          \resumeItemListEnd
+        \resumeProjectHeading{\textbf{Classroom IoT Climate Control System} $|$ \emph{LoRa, Microcontrollers}}{Oct 2023 - Dec 2023}
+          \resumeItemListStart
+            \resumeItem{Engineered a distant monitoring system for classroom air conditioner management with LoRa \& microprocessors as a key components.}
+            \resumeItem{Implemented wireless communication protocols for reliable long-range control, improving classroom comfort and energy efficiency.}
+          \resumeItemListEnd
+        \resumeProjectHeading{\textbf{Construction Site Safety Enhancement through IoT} $|$ \emph{IoT Devices, Python}}{May, 2022 - Present}
+          \resumeItemListStart
+            \resumeItem{Developed an IoT-based construction site monitoring system with a 15\% decline in accidents.}
+            \resumeItem{Implemented sensors to detect potential hazards and alert management, to improve safety protocols.}
+          \resumeItemListEnd
+        \resumeProjectHeading{\textbf{IYTE VOLTARIS Electric Vehicle Team} $|$ \emph{Control Engineer \& System Architect}}{June, 2022 - Present}
+          \resumeItemListStart
+            \resumeItem{Implemented YOLOv8-based object detection system for lane identification with 28fps processing on embedded hardware.}
+            \resumeItem{Developed multi-threaded C++ vehicle control architecture with 10ms response time for real-time path planning.}
+            \resumeItem{Designed Python middleware for bidirectional data exchange between MATLAB, ANSYS, and Maxwell simulation environments.}
+            \resumeItem{Optimized CNN inference pipeline for ARM Cortex-A72 processor with 5.2× throughput improvement using ONNX runtime.}
+            \resumeItem{Implemented Holtz Flux Observer-based sensorless control system for PMSM (Permanent Magnet Synchronous Motors).}
+            \resumeItem{Architected Forward Field-Directed Control algorithms with Park-Clarke transformations and Space Vector PWM optimization.}
+            \resumeItem{Designed enhanced PI-PID controllers with Tustin integration methods and RK4-based state space simulation techniques.}
+            \resumeItem{Developed 70,000+ lines of Python control code for Field Oriented Control and sensorless PMSM operation.}
+            \resumeItem{Created active disturbance rejection control (ADRC) for PMSMs using MATLAB simulation environment.}
+            \resumeItem{Implemented third-order position-speed observer with field attenuation control and cross-connection compensation.}
+            \resumeItem{Programmed Arduino control systems for active battery cell balancing with thermal management algorithms.}
+            \resumeItem{Conducted battery cooling simulations using ANSYS/FLUENT with optimized mesh generation and thermal analysis.}
+            \resumeItem{Designed DC-DC converter topologies (buck-boost configuration) using Altium Designer with MOSFET switching optimization.}
+            \resumeItem{Created diagnostic tools for PMSM field-oriented control with real-time parameter monitoring and fault detection.}
+            \resumeItem{Executed CFD simulations with ANSYS Fluent achieving 0.28 drag coefficient through iterative mesh refinement.}
+            \resumeItem{Performed FEA for electromagnetic field distribution using JMAG Designer 17 for optimized motor torque density.}
+            \resumeItem{Created 4-layer PCB designs using Altium Designer for STM32-based vehicle controllers with CAN bus networking.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+\section{Experience}
+  \resumeSubHeadingListStart
+        \resumeProjectHeading{\textbf{Undergraduate Laboratory Assistant} $|$ \emph{Izmir Institute of Technology}}{Aug 2024 - Jan 2025}
+          \resumeItemListStart
+            \resumeItem{Implemented spectral density estimation algorithms for non-stationary wave signals using Welch's method and STFT analysis.}
+            \resumeItem{Developed MATLAB-based Simulink control system for wave generation apparatus using JONSWAP spectral parameters with PID feedback control.}
+            \resumeItem{Architected data acquisition system for multi-channel wave probe sensors with 1kHz sampling rate and real-time FFT processing.}
+            \resumeItem{Optimized signal filtering methodologies for cross-spectral density calculations, improving wave height measurement accuracy by 18\%.}
+          \resumeItemListEnd
+        \resumeProjectHeading{\textbf{Civil Engineering Intern} $|$ \emph{Umsan Construction Co. Ltd. \c{S}ti.}}{Jan 2024 - Feb 2024}
+          \resumeItemListStart
+            \resumeItem{Conducted reinforced concrete inspection using ultrasonic pulse velocity testing on 15+ structural elements.}
+            \resumeItem{Performed quantity takeoff calculations using BIM data extraction for cost estimation of 3,500 $m^2$ high-rise development.}
+            \resumeItem{Analyzed rebar placement and concrete cover measurements using GPR (Ground Penetrating Radar) technology.}
+          \resumeItemListEnd
+        \resumeProjectHeading{\textbf{Research Assistant} $|$ \emph{T\"UB\"ITAK Research Projects}}{2023 - Present}
+          \resumeItemListStart
+            \resumeItem{Developed precipitation-adjustable dynamic speed limit algorithm incorporating road friction coefficients and vehicle stopping distance calculations.}
+            \resumeItem{Engineered ESP32-based data acquisition system for real-time monitoring of OBD-II vehicle parameters in traffic safety applications.}
+            \resumeItem{Implemented numerical integration methods for non-linear friction models in adverse weather conditions using Greenwood \& Williamson's microcontact theory.}
+          \resumeItemListEnd
+        \resumeProjectHeading{\textbf{Engineering Workshop Organizer} $|$ \footnotesize\emph{Technical Lead}}{2022 -- 2023}
+          \resumeItemListStart
+            \resumeItem{Conducted hands-on parametric modeling workshops using Grasshopper/Rhino for 40+ engineering students.}
+            \resumeItem{Developed training materials on FEM analysis methodology for structural optimization problems.}
+          \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\section{Activities}
+  \resumeSubHeadingListStart
+        \resumeProjectHeading{\textbf{Community Infrastructure Development Volunteer}}{2024}
+          \resumeItemListStart
+            \resumeItem{Conducted structural feasibility assessment for 120$m^2$ community center using non-destructive testing methods.}
+            \resumeItem{Performed quantitative needs analysis through statistical evaluation of 250+ community survey responses.}
+            \resumeItem{Developed GIS-based infrastructure prioritization model for resource allocation optimization.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+\end{document}
+
