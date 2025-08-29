@@ -22,24 +22,7 @@
 
 </div>
 
-<!-- Pinned Repositories -->
-<div align="center">
-
-<a href="https://github.com/adzetto/C-main">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=adzetto&repo=C-main&theme=tokyonight" />
-</a>
-<a href="https://github.com/adzetto/ADAS_LITE">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=adzetto&repo=ADAS_LITE&theme=tokyonight" />
-</a>
-<br/>
-<a href="https://github.com/adzetto/fluidanalysis">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=adzetto&repo=fluidanalysis&theme=tokyonight" />
-</a>
-<a href="https://github.com/adzetto/dashboard">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=adzetto&repo=dashboard&theme=tokyonight" />
-</a>
-
-</div>
+<!-- (Top kept clean — no pinned cards) -->
 
 ### About Me
 
@@ -122,3 +105,46 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 </div>
 
 <sub>Built with ❤️ for EV, embedded, and civil engineering.</sub>
+
+---
+
+### All Repositories — compact
+
+<details>
+  <summary>Click to expand minimal list of all public repos</summary>
+
+  
+  - EV & Embedded: 
+    [C-main](https://github.com/adzetto/C-main) • 
+    [motor_driver](https://github.com/adzetto/motor_driver)
+
+  - ADAS & ML:
+    [ADAS](https://github.com/adzetto/ADAS) • 
+    [ADAS_LITE](https://github.com/adzetto/ADAS_LITE) • 
+    [hailo-lib-compile](https://github.com/adzetto/hailo-lib-compile) • 
+    [real-time-trafic-signal-detection](https://github.com/adzetto/real-time-trafic-signal-detection)
+
+  - Simulation & Analysis:
+    [fluidanalysis](https://github.com/adzetto/fluidanalysis) • 
+    [Spring-Mass-Friction-Analysis](https://github.com/adzetto/Spring-Mass-Friction-Analysis) • 
+    [Voronoi-Diagram-Simulation](https://github.com/adzetto/Voronoi-Diagram-Simulation) • 
+    [Julia-Scientific](https://github.com/adzetto/Julia-Scientific) • 
+    [MATLAB-main](https://github.com/adzetto/MATLAB-main) • 
+    [mathematica_files](https://github.com/adzetto/mathematica_files)
+
+  - Tooling & Web:
+    [dashboard](https://github.com/adzetto/dashboard) • 
+    [ev-tcu-server](https://github.com/adzetto/ev-tcu-server) • 
+    [voltaris](https://github.com/adzetto/voltaris) • 
+    [voltaris-hotspot](https://github.com/adzetto/voltaris-hotspot) • 
+    [voltaris-website](https://github.com/adzetto/voltaris-website) • 
+    [voltaris-website-white](https://github.com/adzetto/voltaris-website-white)
+
+  - Academic & Notes:
+    [University](https://github.com/adzetto/University) • 
+    [AKS](https://github.com/adzetto/AKS) • 
+    [AKS_CODES](https://github.com/adzetto/AKS_CODES) • 
+    [internship_record_book](https://github.com/adzetto/internship_record_book) • 
+    [internship2_record_book](https://github.com/adzetto/internship2_record_book)
+
+</details>
