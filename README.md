@@ -2,6 +2,7 @@
 <div align="center">
 
 <h1>Hi, I'm <a href="https://github.com/adzetto">Muhammet Yağcıoğlu</a> (adzetto) 👋</h1>
+<i>Engineering at the intersection of EV systems, control, and civil structures.</i>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Embedded+%26+EV+Software+%7C+C%2B%2B+%7C+Controls;Civil+Engineer+%7C+Simulation+%7C+Structural+%26+Fluid+Analysis;Autonomous+Driving+%7C+V2X+%7C+Energy+Management" alt="Typing SVG" />
@@ -17,15 +18,15 @@
 
 ### About Me
 
-I'm an embedded systems engineer and civil engineer. I build high‑reliability C++ systems for electric vehicles (powertrain/BMS/ADAS, thermal, CAN, cybersecurity) and I also work on engineering simulation and analysis in the civil domain (structural, dynamics, fluids, numerical methods).
+Multidisciplinary engineer blending embedded/EV systems with civil engineering. I design high‑reliability C++ control software (powertrain, BMS, ADAS/AD, V2X, thermal, diagnostics) and build quantitative models for structural dynamics, fluids, and numerical analysis. I enjoy turning theory into robust implementations — from FEM/CFD and signal processing to real‑time control loops and simulation tooling.
 
-- EV/Embedded: Powertrain control, BMS, ADAS/AD, V2X, CAN, thermal, safety (ISO 26262)
-- Civil Engineering: Structural dynamics, numerical analysis, fluid mechanics, simulation tooling
-- Tooling: Clean architectures, performance diagnostics, reproducible simulations
+- Control & Embedded: PMSM/FOC control, observers (Holtz, ADRC), real‑time C++ architectures, CAN/OBD‑II, thermal mgmt, safety (ISO 26262)
+- Civil & Simulation: Structural dynamics, FEM, CFD, hydrologic modeling, spectral density analysis (STFT, Welch), GIS workflows
+- Tooling & ML: MATLAB/Simulink, Python (NumPy/SciPy/TensorFlow), Sim/optimization pipelines, reproducible experiments
 
 ---
 
-### GitHub Highlights (no tokens required)
+### Engineering Snapshot
 
 <div align="center">
 
@@ -84,7 +85,15 @@ I'm an embedded systems engineer and civil engineer. I build high‑reliability 
 ### Connect
 
 - 📍 İzmir • he/him
-- ✉️ Email: muhammet.y.resmi@gmail.com
+- ✉️ Email: muhammet.y.resmi@gmail.com · muhammetyagcioglu@std.iyte.edu.tr
 - 🔗 LinkedIn: [in/muhammetyagcioglu](https://www.linkedin.com/in/muhammetyagcioglu)
+- 🧮 Math.SE: [math.stackexchange.com/users/988344/adzetto](https://math.stackexchange.com/users/988344/adzetto)
+- 🌍 eodev: [eodev.com/app/profile/4486426](https://eodev.com/app/profile/4486426/)
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=From+models+to+machines%3A+math%E2%86%92code%E2%86%92control;Numerics%2C+signals%2C+and+systems+with+real‑time+constraints;I+love+elegant+engineering%2C+measurable+results%2C+and+hard+problems." alt="passion-typing" />
+
+</div>
 
 <sub>Built with ❤️ for EV, embedded, and civil engineering.</sub>
