@@ -28,7 +28,7 @@ jobs:
           plugin_repositories_descriptions: no
           plugin_repositories_forks: no
           plugin_repositories_pinned: no
-          plugin_repositories_limit: 100
+          plugin_repositories_limit: 30
           plugin_repositories_order: source, popularity
       - name: Commit generated SVG
         uses: EndBug/add-and-commit@v9

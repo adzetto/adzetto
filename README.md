@@ -44,8 +44,8 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adzetto&theme=tokyo-night&radius=8" alt="activity-graph" />
 
-<!-- GitHub trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=adzetto&theme=onedark&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="trophies" />
+<!-- Achievements (local SVG built by Actions) -->
+<img src="https://raw.githubusercontent.com/adzetto/adzetto/main/github-achievements.svg" alt="achievements" />
 
 </div>
 
