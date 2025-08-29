@@ -1,0 +1,31 @@
+name: Generate Compact Repos View
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/mini-repos.yml'
+
+jobs:
+  repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate repositories panel
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: adzetto
+          template: classic
+          filename: github-repos.svg
+          base: ''
+          config_timezone: Europe/Istanbul
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_descriptions: no
+          plugin_repositories_forks: no
+          plugin_repositories_pinned: no
+          plugin_repositories_limit: 100
+          plugin_repositories_order: source, popularity
+

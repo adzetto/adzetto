@@ -69,15 +69,6 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 
 ---
 
-### Featured Repos
-
-- 🚗 EV systems (C++): [C-main](https://github.com/adzetto/C-main)
-- 🧪 Analysis/simulation: [fluidanalysis](https://github.com/adzetto/fluidanalysis), [Spring-Mass-Friction-Analysis](https://github.com/adzetto/Spring-Mass-Friction-Analysis), [University](https://github.com/adzetto/University)
-- 🧠 ADAS & ML notebooks: [ADAS](https://github.com/adzetto/ADAS), [ADAS_LITE](https://github.com/adzetto/ADAS_LITE)
-- 🧰 Tooling/Dashboards: [dashboard](https://github.com/adzetto/dashboard)
-
----
-
 ### CV
 
 <div align="center">
@@ -92,59 +83,32 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 
 ### Connect
 
-- 📍 İzmir • he/him
-- ✉️ Email: muhammet.y.resmi@gmail.com · muhammetyagcioglu@std.iyte.edu.tr
-- 🔗 LinkedIn: [in/muhammetyagcioglu](https://www.linkedin.com/in/muhammetyagcioglu)
-- 🧮 Math.SE: [math.stackexchange.com/users/988344/adzetto](https://math.stackexchange.com/users/988344/adzetto)
-- 🌍 eodev: [eodev.com/app/profile/4486426](https://eodev.com/app/profile/4486426/)
+<p>
+  <img src="https://img.shields.io/badge/İzmir-10b981?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/he%2Fhim-0ea5e9?style=flat" />
+</p>
+
+<p>
+  <a href="mailto:muhammet.y.resmi@gmail.com"><img src="https://img.shields.io/badge/Email%201-gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:muhammetyagcioglu@std.iyte.edu.tr"><img src="https://img.shields.io/badge/Email%202-std.iyte.edu.tr-2563EB?style=flat&logo=minutemailer&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammetyagcioglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://math.stackexchange.com/users/988344/adzetto"><img src="https://img.shields.io/badge/StackExchange-Math.SE-1E5397?style=flat&logo=stackexchange&logoColor=white" /></a>
+  <a href="https://eodev.com/app/profile/4486426/"><img src="https://img.shields.io/badge/eodev-Profile-0ea5e9?style=flat&logo=internetarchive&logoColor=white" /></a>
+</p>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=From+models+to+machines%3A+math%E2%86%92code%E2%86%92control;Numerics%2C+signals%2C+and+systems+with+real‑time+constraints;I+love+elegant+engineering%2C+measurable+results%2C+and+hard+problems." alt="passion-typing" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=From+models+to+machines%3A+math%E2%86%92code%E2%86%92control;Numerics%2C+signals%2C+and+systems+with+real‑time+constraints;I+love+elegant+engineering%2C+measurable+results%2C+and+hard+problems." alt="passion-typing" />
 </div>
 
 <sub>Built with ❤️ for EV, embedded, and civil engineering.</sub>
 
 ---
 
-### All Repositories — compact
+### All Repositories — Compact Auto View
 
 <details>
-  <summary>Click to expand minimal list of all public repos</summary>
-
-  
-  - EV & Embedded: 
-    [C-main](https://github.com/adzetto/C-main) • 
-    [motor_driver](https://github.com/adzetto/motor_driver)
-
-  - ADAS & ML:
-    [ADAS](https://github.com/adzetto/ADAS) • 
-    [ADAS_LITE](https://github.com/adzetto/ADAS_LITE) • 
-    [hailo-lib-compile](https://github.com/adzetto/hailo-lib-compile) • 
-    [real-time-trafic-signal-detection](https://github.com/adzetto/real-time-trafic-signal-detection)
-
-  - Simulation & Analysis:
-    [fluidanalysis](https://github.com/adzetto/fluidanalysis) • 
-    [Spring-Mass-Friction-Analysis](https://github.com/adzetto/Spring-Mass-Friction-Analysis) • 
-    [Voronoi-Diagram-Simulation](https://github.com/adzetto/Voronoi-Diagram-Simulation) • 
-    [Julia-Scientific](https://github.com/adzetto/Julia-Scientific) • 
-    [MATLAB-main](https://github.com/adzetto/MATLAB-main) • 
-    [mathematica_files](https://github.com/adzetto/mathematica_files)
-
-  - Tooling & Web:
-    [dashboard](https://github.com/adzetto/dashboard) • 
-    [ev-tcu-server](https://github.com/adzetto/ev-tcu-server) • 
-    [voltaris](https://github.com/adzetto/voltaris) • 
-    [voltaris-hotspot](https://github.com/adzetto/voltaris-hotspot) • 
-    [voltaris-website](https://github.com/adzetto/voltaris-website) • 
-    [voltaris-website-white](https://github.com/adzetto/voltaris-website-white)
-
-  - Academic & Notes:
-    [University](https://github.com/adzetto/University) • 
-    [AKS](https://github.com/adzetto/AKS) • 
-    [AKS_CODES](https://github.com/adzetto/AKS_CODES) • 
-    [internship_record_book](https://github.com/adzetto/internship_record_book) • 
-    [internship2_record_book](https://github.com/adzetto/internship2_record_book)
-
+  <summary>Click to expand</summary>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/adzetto/adzetto/main/github-repos.svg" alt="all-repos" />
+  </div>
 </details>
