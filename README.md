@@ -44,9 +44,6 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adzetto&theme=tokyo-night&radius=8" alt="activity-graph" />
 
-<!-- Achievements (local SVG built by Actions) -->
-<img src="https://raw.githubusercontent.com/adzetto/adzetto/main/github-achievements.svg" alt="achievements" />
-
 </div>
 
 ---
@@ -83,18 +80,49 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 
 ### Connect
 
-<p>
-  <img src="https://img.shields.io/badge/İzmir-10b981?style=flat&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/he%2Fhim-0ea5e9?style=flat" />
-</p>
-
-<p>
-  <a href="mailto:muhammet.y.resmi@gmail.com"><img src="https://img.shields.io/badge/Email%201-gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:muhammetyagcioglu@std.iyte.edu.tr"><img src="https://img.shields.io/badge/Email%202-std.iyte.edu.tr-2563EB?style=flat&logo=minutemailer&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammetyagcioglu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://math.stackexchange.com/users/988344/adzetto"><img src="https://img.shields.io/badge/StackExchange-Math.SE-1E5397?style=flat&logo=stackexchange&logoColor=white" /></a>
-  <a href="https://eodev.com/app/profile/4486426/"><img src="https://img.shields.io/badge/eodev-Profile-0ea5e9?style=flat&logo=internetarchive&logoColor=white" /></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.simpleicons.org/googlemaps/10b981" width="22" alt="Location"/>
+        <div><b>İzmir</b></div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.simpleicons.org/gnometerminal/0ea5e9" width="22" alt="Pronouns"/>
+        <div><b>he / him</b></div>
+      </td>
+      <td align="center" width="220">
+        <a href="mailto:muhammet.y.resmi@gmail.com">
+          <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" alt="Gmail"/> <b>muhammet.y.resmi</b>
+        </a>
+        <div style="font-size: 11px; opacity: 0.8;">@gmail.com</div>
+      </td>
+      <td align="center" width="260">
+        <a href="mailto:muhammetyagcioglu@std.iyte.edu.tr">
+          <img src="https://cdn.simpleicons.org/minutemailer/2563EB" width="22" alt="Academic"/> <b>muhammetyagcioglu</b>
+        </a>
+        <div style="font-size: 11px; opacity: 0.8;">@std.iyte.edu.tr</div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://www.linkedin.com/in/muhammetyagcioglu">
+          <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" alt="LinkedIn"/> <b>LinkedIn</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://math.stackexchange.com/users/988344/adzetto">
+          <img src="https://cdn.simpleicons.org/stackexchange/1E5397" width="22" alt="Math.SE"/> <b>Math.SE</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://eodev.com/app/profile/4486426/">
+          <img src="https://cdn.simpleicons.org/apacheairflow/0ea5e9" width="22" alt="eodev"/> <b>eodev</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=From+models+to+machines%3A+math%E2%86%92code%E2%86%92control;Numerics%2C+signals%2C+and+systems+with+real‑time+constraints;I+love+elegant+engineering%2C+measurable+results%2C+and+hard+problems." alt="passion-typing" />
@@ -104,11 +132,4 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 
 ---
 
-### All Repositories — Compact Auto View
-
-<details>
-  <summary>Click to expand</summary>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/adzetto/adzetto/main/github-repos.svg" alt="all-repos" />
-  </div>
-</details>
+<!-- All Repositories panel intentionally removed for a cleaner profile -->
