@@ -46,7 +46,7 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
       <sub>FOC · ADRC · Observers</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/adzetto/adzetto/main/assets/icons/simulation.svg" width="56" alt="Simulation"/>
+      <img src="assets/icons/simulation.svg" width="56" alt="Simulation"/>
       <div><b>Simulation</b></div>
       <sub>MATLAB/Simulink</sub>
     </td>
@@ -73,7 +73,7 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
       <sub>Low‑latency · Safety</sub>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/adzetto/adzetto/main/assets/icons/can.svg" width="56" alt="Comms"/>
+      <img src="assets/icons/can.svg" width="56" alt="Comms"/>
       <div><b>Comms</b></div>
       <sub>CAN · V2X</sub>
     </td>
@@ -187,7 +187,7 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
 ### Creative Engineering
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adzetto/adzetto/main/assets/animated-math.svg" alt="animated-math" />
+  <img src="assets/animated-math.svg" alt="animated-math" />
 </div>
 
 #### Engineering Snapshot (compact)
