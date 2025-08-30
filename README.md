@@ -110,6 +110,27 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLion-21D789?style=for-the-badge&logo=clion&logoColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Espressif%20(ESP32)-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-3A8E3A?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rhino-801010?style=for-the-badge&logo=rhinoceros&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD%20C3D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETABS-FEA-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SAP2000-Structural-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STAAD%20Pro-Analysis-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HEC--RAS-Hydraulic-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WaterCAD-Hydraulic-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Primavera%20P6-Planning-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MicroStation-CAD-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OBD--II-Diagnostics-64748B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LoRa-IoT-22C55E?style=for-the-badge" />
 </p>
 
 ---
@@ -152,7 +173,7 @@ Multidisciplinary engineer blending embedded/EV systems with civil engineering. 
     <tr>
       <td align="center" width="220">
         <a href="https://www.linkedin.com/in/muhammetyagcioglu">
-          <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" alt="LinkedIn"/>
+          <img src="assets/icons/linkedin.svg" width="36" alt="LinkedIn"/>
           <div style="font-size:14px;"><b>LinkedIn</b></div>
         </a>
       </td>
